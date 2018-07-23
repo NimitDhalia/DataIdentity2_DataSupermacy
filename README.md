@@ -12,17 +12,18 @@ To understand the factors that lead a person to look for a job change, the agenc
 
 ## Data Dictionary:
  
-Variable: enrollee_id, city, city_development_index, Developement index of the city (scaled), gender, relevent_experience, 
+**Input Variable:** enrollee_id, city, city_development_index, Developement index of the city (scaled), gender, relevent_experience, 
 enrolled_university, Type of University course enrolled if any, education_level, major_discipline, Total experience in years
 company_size, Type of current employer, Difference in years between previous job and current job training_hours;
 
-target variable = target
+**Output variable** = target
  
 target = 0 – Not looking for job change, 1 – Looking for a job change
 
-Evaluation Metric
+**Evaluation Metric**
 The evaluation metric for this competition is AUC-ROC score.
 
-Source: "Analytics Vidhya"
 
-URL: https://datahack.analyticsvidhya.com/contest/the-data-supremacy/
+ Source: "Analytics Vidhya"
+
+ URL: https://datahack.analyticsvidhya.com/contest/the-data-supremacy/
