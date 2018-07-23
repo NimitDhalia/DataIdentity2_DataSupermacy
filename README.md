@@ -24,6 +24,6 @@ target = 0 – Not looking for job change, 1 – Looking for a job change
 The evaluation metric for this competition is AUC-ROC score.
 
 
- Source: "Analytics Vidhya"
+>Source: "Analytics Vidhya"
 
- URL: https://datahack.analyticsvidhya.com/contest/the-data-supremacy/
+>URL: https://datahack.analyticsvidhya.com/contest/the-data-supremacy/
