@@ -13,7 +13,7 @@ To understand the factors that lead a person to look for a job change, the agenc
 
 ## Data Dictionary:
  
-**Input Variable:** enrollee_id, city, city_development_index, Developement index of the city (scaled), gender, relevent_experience, 
+**Input Variable (14):** enrollee_id, city, city_development_index, Developement index of the city (scaled), gender, relevent_experience, 
 enrolled_university, Type of University course enrolled if any, education_level, major_discipline, Total experience in years
 company_size, Type of current employer, Difference in years between previous job and current job training_hours;
 
