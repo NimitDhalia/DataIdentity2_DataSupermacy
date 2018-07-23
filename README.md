@@ -1,6 +1,7 @@
 # DataIdentity2_DataSupermacy
 
-Analytics Vidhya "Data Supremacy Hackathon"
+Analytics Vidhya Student DataFest 2018: The Data Supremacy
+More about the Student DataFest 2018 : https://www.analyticsvidhya.com/student-datafest-2018/ 
 
 ## Problem Statement
 
